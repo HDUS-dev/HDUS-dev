@@ -1,4 +1,3 @@
-@@ -0,0 +1,18 @@
 # 💫 About Me:
 I am a passionate embedded system engineer.<br>I am currently working at TMA Solutions.<br>I am currently studying ESP-IDF Frameworks and Linux Programming
 
