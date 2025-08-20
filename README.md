@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am a passionate embedded system engineer.<br>I am currently working at TMA Solutions.<br>I am currently studying ESP-IDF Frameworks and Linux Programming
 
+🔭 I’m currently working on ESP32-Smart-Antenna
+
+🌱 I’m currently learning ESP-IDF, PlatformIO
+
+📫 How to reach me phamnguyendanhuy@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DanHuy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dan-huy-pham-nguyen-094458333/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phamnguyendanhuy@gmail.com) 
