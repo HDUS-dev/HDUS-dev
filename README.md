@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🔭 I’m currently working on ESP32-Smart-Antenna
+🔭 I’m currently studying and working for my pet projects
 
-🌱 I’m currently learning ESP-IDF, PlatformIO
+🌱 I’m currently learning ESP-IDF, PlatformIO, Linux 
 
 📫 How to reach me phamnguyendanhuy@gmail.com
 
