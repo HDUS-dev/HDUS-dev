@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying and working for my pet projects
 
-🌱 I’m currently learning ESP-IDF, PlatformIO, Linux 
+🌱 I’m currently learning ESP-IDF, PlatformIO, Linux, Android Automotive, Design for Testability
 
 📫 How to reach me phamnguyendanhuy@gmail.com
 
